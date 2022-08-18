@@ -5,7 +5,7 @@ import (
 	"net/url"
 	"reflect"
 
-	"github.com/dungps/http-client/internal/encoding"
+	"github.com/coolseven/http-client/internal/encoding"
 
 	"google.golang.org/protobuf/proto"
 )

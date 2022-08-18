@@ -20,7 +20,7 @@ import (
 
 const (
 	contextPackage    = protogen.GoImportPath("context")
-	httpClientPackage = protogen.GoImportPath("github.com/dungps/http-client")
+	httpClientPackage = protogen.GoImportPath("github.com/coolseven/http-client")
 )
 
 type methodDesc struct {

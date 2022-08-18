@@ -2,7 +2,7 @@ package xml
 
 import (
 	"encoding/xml"
-	"github.com/dungps/http-client/internal/encoding"
+	"github.com/coolseven/http-client/internal/encoding"
 )
 
 const Name = "xml"

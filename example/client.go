@@ -2,7 +2,7 @@ package main
 
 import (
 	"context"
-	http_client "github.com/dungps/http-client"
+	http_client "github.com/coolseven/http-client"
 )
 
 func main() {

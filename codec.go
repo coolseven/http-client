@@ -3,7 +3,7 @@ package http_client
 import (
 	"context"
 	"fmt"
-	"github.com/dungps/http-client/internal/encoding"
+	"github.com/coolseven/http-client/internal/encoding"
 	"io"
 	"net/http"
 	"strings"

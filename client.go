@@ -11,9 +11,9 @@ import (
 	"strings"
 	"time"
 
-	_ "github.com/dungps/http-client/internal/encoding/form"
-	_ "github.com/dungps/http-client/internal/encoding/json"
-	_ "github.com/dungps/http-client/internal/encoding/xml"
+	_ "github.com/coolseven/http-client/internal/encoding/form"
+	_ "github.com/coolseven/http-client/internal/encoding/json"
+	_ "github.com/coolseven/http-client/internal/encoding/xml"
 )
 
 type DecodeErrorFunc func(ctx context.Context, res *http.Response) error

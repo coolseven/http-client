@@ -6,7 +6,7 @@ package main
 
 import (
 	context "context"
-	http_client "github.com/dungps/http-client"
+	http_client "github.com/coolseven/http-client"
 	_ "google.golang.org/genproto/googleapis/api/annotations"
 	_ "google.golang.org/protobuf/types/descriptorpb"
 )

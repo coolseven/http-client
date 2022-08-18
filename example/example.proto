@@ -1,6 +1,6 @@
 syntax = "proto3";
 
-option go_package = "github.com/dungps/http-client/example;main";
+option go_package = "github.com/coolseven/http-client/example;main";
 
 package client;
 

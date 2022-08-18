@@ -1,10 +1,11 @@
-module github.com/dungps/http-client
+module github.com/coolseven/http-client
 
-go 1.18
+go 1.17
 
 require (
-	google.golang.org/genproto v0.0.0-20220505152158-f39f71e6c8f3
-	google.golang.org/protobuf v1.28.0
+	github.com/go-playground/form/v4 v4.2.0
+	google.golang.org/genproto v0.0.0-20210602131652-f16073e35f0c
+	google.golang.org/protobuf v1.26.0
 )
 
-require github.com/go-playground/form/v4 v4.2.0
+require github.com/golang/protobuf v1.5.2 // indirect

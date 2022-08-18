@@ -2,7 +2,7 @@ package json
 
 import (
 	"encoding/json"
-	"github.com/dungps/http-client/internal/encoding"
+	"github.com/coolseven/http-client/internal/encoding"
 	"reflect"
 )
 

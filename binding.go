@@ -6,7 +6,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/dungps/http-client/internal/encoding/form"
+	"github.com/coolseven/http-client/internal/encoding/form"
 
 	"google.golang.org/protobuf/proto"
 	"google.golang.org/protobuf/reflect/protoreflect"

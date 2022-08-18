@@ -1,7 +1,7 @@
 package http_client
 
 import (
-	"github.com/dungps/http-client/internal/testdata"
+	"github.com/coolseven/http-client/internal/testdata"
 	"testing"
 )
 
