@@ -4,8 +4,8 @@ go 1.17
 
 require (
 	github.com/go-playground/form/v4 v4.2.0
-	google.golang.org/genproto v0.0.0-20210602131652-f16073e35f0c
-	google.golang.org/protobuf v1.26.0
+	google.golang.org/genproto v0.0.0-20200904004341-0bd0a958aa1d
+	google.golang.org/protobuf v1.25.0
 )
 
-require github.com/golang/protobuf v1.5.2 // indirect
+require github.com/golang/protobuf v1.4.1 // indirect
